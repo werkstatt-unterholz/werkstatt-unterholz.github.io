@@ -47,7 +47,7 @@ die sich jedoch mit etwas Aufwand selbst berechnen und herstellen lässt.
 - Darauf aufbauend stellen wir eine neue Frässchablone her und probieren diese aus.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: Entweder zweimal Donnerstagabend 18:30-21:30 oder einmal Sonntag 11:00-17:00  
+Zeit: zweimal Donnerstagabend 18:30-21:30  
 Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-maschinell)
 
