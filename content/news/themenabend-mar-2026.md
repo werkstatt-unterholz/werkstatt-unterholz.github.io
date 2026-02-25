@@ -1,5 +1,5 @@
 ---
-title: "Themenabend 17. März 2026"
+title: "Themenabend 27. März 2026"
 date: 2026-02-25
 ---
 
