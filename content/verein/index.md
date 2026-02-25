@@ -29,7 +29,8 @@ Steuerbefreit unter Register Nummer: J000246404
 [Einhell Schweiz](https://www.einhell.com/)  
 [Zehnder Holzhandel](https://www.zehnder-handel.ch/)  
 [Hasler](https://www.hasler.ch/)  
-[Holzerleben](http://www.holzerleben.ch/)
+[Holzerleben](http://www.holzerleben.ch/)  
+[Stadt Winterthur, Amt für Stadtentwicklung](https://stadt.winterthur.ch/gemeinde/verwaltung/kulturelles-und-dienste/stadtentwicklung)  
 
 # Dokumente
 
