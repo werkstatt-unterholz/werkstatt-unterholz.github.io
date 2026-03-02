@@ -90,7 +90,7 @@ Dieser Einführungskurs vermittelt euch die wichtigsten Eigenheiten, Einstellung
 In diesem Kurs geht es um den sicheren Umgang mit der Drechselbank, nicht um die Vermittlung von Drechseltechnik.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30 – 21:30 Uhr
+Zeit: 18:30 – 21:30 Uhr  
 Kosten: CHF 50 für Mitglieder  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=drechselbank)
 
