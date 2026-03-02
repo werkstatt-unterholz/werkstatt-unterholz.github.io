@@ -28,7 +28,7 @@ Im Maschinenkurs der Werkstatt Unterholz lernst du den sicheren Umgang mit Masch
 Dieser Kurs ist Voraussetzung, wenn du als Vielnutzer-Mitglied die Werkstatt selbstständig nutzen willst.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30–22:00  
+Zeit: 18:30 – 22:00 Uhr
 Kosten: CHF 50  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=maschinenkurs)
 
@@ -42,12 +42,12 @@ Halbverdeckte Schwalbenschwanzzinken sind stabile und dekorative Holzverbindunge
 die sich mit der Oberfräse sehr exakt herstellen lassen. Dazu benötigt man eine Frässchablone,
 die sich jedoch mit etwas Aufwand selbst berechnen und herstellen lässt.
 
-- Als erstes werden wir mit einer vorhandenen Schablone Schwalbenschwanzzinken fräsen, um das Prinzip zu verstehen.
-- Im nächsten Schritt besprechen wir, wie man die Masse einer neuen Schablone berechnet, abhängig vom verwendeten Fräser und der gewünschten Grösse der Zinken.
+- Als Erstes werden wir mit einer vorhandenen Schablone Schwalbenschwanzzinken fräsen, um das Prinzip zu verstehen.
+- Im nächsten Schritt besprechen wir, wie man die Masse einer neuen Schablone berechnet, abhängig vom verwendeten Fräser und von der gewünschten Grösse der Zinken.
 - Darauf aufbauend stellen wir eine neue Frässchablone her und probieren diese aus.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: zweimal Donnerstagabend 18:30-21:30  
+Zeit: Zweimal Donnerstagabend 18:30 – 21:30 Uhr
 Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-maschinell)
 
@@ -61,9 +61,9 @@ Schwalbenschwanz- und Fingerzinken sind die Königsdisziplin unter den Eckverbin
 Alle Aspekte der Bearbeitung treffen bei exaktester Arbeit aufeinander. Eine grossartige Übung zur Stärkung
 der Koordination von Händen und Augen. 
 
-Folgende Punkte werden im Kurs durchgearbeitet
+Folgende Punkte werden im Kurs durchgearbeitet:
 
-- Projekte planen mit Zinken
+- Projekte mit Zinken planen
 - Zinken einteilen
 - Reissarbeiten
 - Sägen
@@ -80,17 +80,17 @@ Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-manuell)
 
 {{< figure src="drechseln.jpg" class="tc" >}}
 
-**Einführung in Drechselbank und Eisen schärfen**
+**Einführung in Drechselbank und Eisenschärfen**
 
 Dieser Einführungskurs vermittelt euch die wichtigsten Eigenheiten, Einstellungen und das Zubehör unserer Drechselmaschine.
 
 - Wir besprechen die verschiedenen Futter und Einspannmöglichkeiten.
-- Ihr erlernt das schnelle Nachschärfen der Eisen an der Tormek Schärfmaschine. 
+- Ihr erlernt das schnelle Nachschärfen der Eisen an der Tormek-Schärfmaschine. 
 
 In diesem Kurs geht es um den sicheren Umgang mit der Drechselbank, nicht um die Vermittlung von Drechseltechnik.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30-21:30  
+Zeit: 18:30 – 21:30 Uhr
 Kosten: CHF 50 für Mitglieder  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=drechselbank)
 
@@ -98,8 +98,8 @@ Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=drechselbank)
 
 **Sichere erste Schritte an der Drechselbank: Langholz**
 
-Dieser Einführungskurs richtet sich an alle, die an unserer Drechselbank arbeiten wollen
-ohne Vorerfahrung im Drechseln zu haben oder die ihr Wissen auffrischen möchten.
+Dieser Einführungskurs richtet sich an alle, die an unserer Drechselbank arbeiten wollen,
+ohne Vorerfahrung im Drechseln zu haben, oder die ihr Wissen auffrischen möchten.
 Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehmen zu können.
 
 - In diesem Kurs geht es um das Drechseln von Langholz, also wenn die Holzfaser entlang der Drehachse ausgerichtet ist.
@@ -108,7 +108,7 @@ Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehm
 - Anschliessend üben wir das Drechseln der Grundformen Stich, Stab und Hohlkehle mit der Formröhre oder dem Meissel.
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30-21:30  
+Zeit: 18:30 – 21:30 Uhr  
 Kosten: CHF 50 für Mitglieder / CHF 100 für Externe  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=langholz)
 
@@ -116,8 +116,8 @@ Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=langholz)
 
 **Sichere erste Schritte an der Drechselbank: Querholz**
 
-Dieser Einführungskurs richtet sich an alle, die an unserer Drechselbank arbeiten wollen
-ohne Vorerfahrung im Drechseln zu haben oder die ihr Wissen auffrischen möchten.
+Dieser Einführungskurs richtet sich an alle, die an unserer Drechselbank arbeiten wollen,
+ohne Vorerfahrung im Drechseln zu haben, oder die ihr Wissen auffrischen möchten.
 Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehmen zu können.
 
 - In diesem Kurs geht es um das Drechseln von Querholz, also wenn die Holzfaser senkrecht zur Drehachse ausgerichtet ist.
@@ -126,6 +126,6 @@ Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehm
 - Wir drechseln eine kleine Schale und erlernen dabei den Umgang mit der Schalenröhre. 
 
 Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30-21:30  
+Zeit: 18:30 – 21:30 Uhr  
 Kosten: CHF 50 für Mitglieder / CHF 100 für Externe  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=querholz)

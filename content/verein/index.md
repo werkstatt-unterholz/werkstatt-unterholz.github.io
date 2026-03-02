@@ -15,17 +15,17 @@ Sie steht den Vereinsmitgliedern und interessierten Nichtmitgliedern zur Verfüg
 Der Betrieb der Werkstatt muss sich finanziell selber tragen.
 Wir nehmen deshalb gerne Sachspenden und finanzielle Spenden entgegen.
 
-Bankverbindung:PostFinance  
+Bankverbindung: PostFinance  
 Holzwerkstatt  
 8400 Winterthur  
 IBAN: CH54 0900 0000 8990 2340 1  
 Konto: 89-902340-1  
 
-Steuerbefreit unter Register Nummer: J000246404
+Steuerbefreit unter Register-Nummer: J000246404
 
 # Gönner
 
-[Herrmann Schmidhauser Stiftung](https://www.schmidhauser-stiftung.ch/)  
+[Hermann Schmidhauser Stiftung](https://www.schmidhauser-stiftung.ch/)  
 [Einhell Schweiz](https://www.einhell.com/)  
 [Zehnder Holzhandel](https://www.zehnder-handel.ch/)  
 [Hasler](https://www.hasler.ch/)  
@@ -39,5 +39,5 @@ Steuerbefreit unter Register Nummer: J000246404
 ![PDF](/images/pdf.png) [Formular Mitglied werden](unterholz-anmeldung.pdf)  
 ![PDF](/images/pdf.png) [Nutzungsbedingungen](unterholz-nutzungsbedingungen.pdf)  
 ![PDF](/images/pdf.png) [Werkstatt-Rapport](unterholz-dauerrapport.pdf)  
-![PDF](/images/pdf.png) [Preise Maschinenstunden und Twint Code](unterholz-preisliste.pdf)  
+![PDF](/images/pdf.png) [Preise Maschinenstunden und Twint-Code](unterholz-preisliste.pdf)  
 ![PDF](/images/pdf.png) [Werkstattordnung](unterholz-werkstattordnung.pdf)  

@@ -1,5 +1,5 @@
 ---
-title: "Themenabend am 12. Juni 2025"
+title: "Themenabend 12. Juni 2025"
 date: 2025-05-16
 ---
 

@@ -27,6 +27,6 @@ Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortung
 
 **Urheberrechte**
 
-Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf dieser Website, gehören ausschliesslich dem Verein Werkstatt-Unterholz oder den speziell genannten Rechteinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus einzuholen.
+Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf dieser Website gehören ausschliesslich dem Verein Werkstatt Unterholz oder den speziell genannten Rechteinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus einzuholen.
 
 Erstellt mithilfe von: [swissanwalt.ch](http://swissanwalt.ch)

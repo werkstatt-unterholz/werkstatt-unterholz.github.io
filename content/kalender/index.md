@@ -12,8 +12,8 @@ Donnerstag: 18:00 – 22:00 Uhr
 
 ### Hinweise
 
-Die Werkstatt ist oft auch an Feiertagen und während den Schulferien geöffnet. 
-Zum Jahreswechsel und während den Musikfestwochen bleibt die Werkstatt in der Regel geschlossen.
+Die Werkstatt ist oft auch an Feiertagen und während der Schulferien geöffnet.
+Zum Jahreswechsel und während der Musikfestwochen bleibt die Werkstatt in der Regel geschlossen.
 
 ### Live-Werkstattkalender
 
