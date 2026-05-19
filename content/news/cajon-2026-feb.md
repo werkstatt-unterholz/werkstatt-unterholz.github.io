@@ -7,4 +7,4 @@ Aus Holz wird Musik! Für Kinder ab 10 Jahren.
 
 Anmeldung über [ferienprogramm.ch](https://ferienprogramm.ch/kurs/cajon-bauen/2441.html).
 
-{{< figure src="cajon-2026.jpg" class="tc" >}}
+{{< figure src="cajon-2026-feb.jpg" class="tc" >}}
