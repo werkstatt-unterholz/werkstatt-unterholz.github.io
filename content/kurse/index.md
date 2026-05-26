@@ -20,16 +20,20 @@ Die Kurse werden von uns an dieser Stelle beworben.
 
 {{< figure src="maschinenkurs.jpg" class="tc" >}}
 
-Im Maschinenkurs der Werkstatt Unterholz lernst du den sicheren Umgang mit Maschinen.
+Im Maschinenkurs der Werkstatt Unterholz lernst du an zwei Abenden den sicheren und fachgerechten Umgang mit unseren Maschinen.
 
-- Stationäre Maschinen
-- Einfache Handmaschinen
+Wir bearbeiten ein rohes Klotzbrett zu einem fertigen Schneidebrett, das du am Ende des Kurses mit nach Hause nehmen kannst. Dabei lernst du folgende Maschinen kennen:
+
+- 1. Abend: Tauchkreissäge, Abricht- und Dickenhobel
+- 2. Abend: Tischkreissäge, Ständerbohrmaschine, Kappsäge und Bandsäge
 
 Dieser Kurs ist Voraussetzung, wenn du als Vielnutzer-Mitglied die Werkstatt selbstständig nutzen willst.
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30 – 22:00 Uhr
-Kosten: CHF 50  
+Dauer: 2 Abende à je 3.5 Stunden  
+Nächste Daten: 9. und 23. Juni, 8. und 22. September, 10. und 24. November  
+Zeit: Jeweils 18:15 – 21:45 Uhr  
+Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
+Durchführung: Der Kurs findet bei 3 bis 5 Anmeldungen statt  
 Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=maschinenkurs)
 
 # Zinken maschinell
