@@ -20,6 +20,8 @@ Die Kurse werden von uns an dieser Stelle beworben.
 
 {{< figure src="maschinenkurs.jpg" class="tc" >}}
 
+**Einführung in unseren Maschinenpark und die sichere Bedienung**
+
 Im Maschinenkurs der Werkstatt Unterholz lernst du an zwei Abenden den sicheren und fachgerechten Umgang mit unseren Maschinen.
 
 Wir bearbeiten ein rohes Klotzbrett zu einem fertigen Schneidebrett, das du am Ende des Kurses mit nach Hause nehmen kannst. Dabei lernst du folgende Maschinen kennen:
