@@ -29,12 +29,11 @@ Wir bearbeiten ein rohes Klotzbrett zu einem fertigen Schneidebrett, das du am E
 
 Dieser Kurs ist Voraussetzung, wenn du als Vielnutzer-Mitglied die Werkstatt selbstständig nutzen willst.
 
-Dauer: 2 Abende à je 3.5 Stunden  
-Nächste Daten: 9. und 23. Juni, 8. und 22. September, 10. und 24. November  
-Zeit: Jeweils 18:15 – 21:45 Uhr  
-Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
-Durchführung: Der Kurs findet bei 3 bis 5 Anmeldungen statt  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=maschinenkurs)
+**Daten**: 9. und 23. Juni, 8. und 22. September, 10. und 24. November  
+**Zeit**: Zweimal Dienstagabend 18:15 – 21:45 Uhr  
+**Durchführung**: Der Kurs findet bei 3 bis 5 Anmeldungen statt  
+**Kosten**: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=maschinenkurs)
 
 # Zinken maschinell
 
@@ -50,10 +49,10 @@ die sich jedoch mit etwas Aufwand selbst berechnen und herstellen lässt.
 - Im nächsten Schritt besprechen wir, wie man die Masse einer neuen Schablone berechnet, abhängig vom verwendeten Fräser und von der gewünschten Grösse der Zinken.
 - Darauf aufbauend stellen wir eine neue Frässchablone her und probieren diese aus.
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: Zweimal Donnerstagabend 18:30 – 21:30 Uhr
-Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-maschinell)
+**Datum**: Wird mit Interessierten abgesprochen  
+**Zeit**: Zweimal Donnerstagabend 18:30 – 21:30 Uhr  
+**Kosten**: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-maschinell)
 
 # Zinken von Hand
 
@@ -75,10 +74,10 @@ Folgende Punkte werden im Kurs durchgearbeitet:
 - Einpassen
 - Verleimen
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: Einmal 6 h oder zweimal 3 h  
-Kosten: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-manuell)
+**Datum**: Wird mit Interessierten abgesprochen  
+**Zeit**: Einmal 6 h oder zweimal 3 h  
+**Kosten**: CHF 100 für Vereinsmitglieder / CHF 200 für Externe  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=zinken-manuell)
 
 # Drechselbank
 
@@ -93,10 +92,10 @@ Dieser Einführungskurs vermittelt euch die wichtigsten Eigenheiten, Einstellung
 
 In diesem Kurs geht es um den sicheren Umgang mit der Drechselbank, nicht um die Vermittlung von Drechseltechnik.
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30 – 21:30 Uhr  
-Kosten: CHF 50 für Mitglieder  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=drechselbank)
+**Datum**: Wird mit Interessierten abgesprochen  
+**Zeit**: 18:30 – 21:30 Uhr  
+**Kosten**: CHF 50 für Mitglieder  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=drechselbank)
 
 # Langholz drechseln
 
@@ -111,10 +110,10 @@ Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehm
 - Wir lernen das Arbeiten mit der Schuppröhre und den Unterschied zwischen Schaben, Schneiden und ziehendem Schnitt.
 - Anschliessend üben wir das Drechseln der Grundformen Stich, Stab und Hohlkehle mit der Formröhre oder dem Meissel.
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30 – 21:30 Uhr  
-Kosten: CHF 50 für Mitglieder / CHF 100 für Externe  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=langholz)
+**Datum**: Wird mit Interessierten abgesprochen  
+**Zeit**: 18:30 – 21:30 Uhr  
+**Kosten**: CHF 50 für Mitglieder / CHF 100 für Externe  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=langholz)
 
 # Querholz drechseln
 
@@ -129,7 +128,7 @@ Wir vermitteln Grundwissen im Drechseln, um die ersten Schritte sicher unternehm
 - Wir besprechen den Unterschied von Querholz- und Langholzdrechseln und was beim sicheren Bearbeiten von Querholz zu beachten ist. 
 - Wir drechseln eine kleine Schale und erlernen dabei den Umgang mit der Schalenröhre. 
 
-Datum: Wird mit Interessierten abgesprochen  
-Zeit: 18:30 – 21:30 Uhr  
-Kosten: CHF 50 für Mitglieder / CHF 100 für Externe  
-Anmeldung: [Kontaktformular]({{< ref "kontakt.md" >}}?template=querholz)
+**Datum**: Wird mit Interessierten abgesprochen  
+**Zeit**: 18:30 – 21:30 Uhr  
+**Kosten**: CHF 50 für Mitglieder / CHF 100 für Externe  
+**Anmeldung**: [Kontaktformular]({{< ref "kontakt.md" >}}?template=querholz)
