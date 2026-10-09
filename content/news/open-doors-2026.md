@@ -1,5 +1,5 @@
 ---
-title: "open doors 17. November 2026"
+title: "open doors: 15. November 2026"
 date: 2026-10-01
 ---
 
